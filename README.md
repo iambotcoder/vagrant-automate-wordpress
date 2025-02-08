@@ -1,0 +1,1 @@
+# vagrant-automate-wordpress
