@@ -132,6 +132,9 @@ end
 ## Accessing WordPress
 After setting up the VM, open a browser and go to `http://192.168.56.98` to complete the WordPress installation.
 
+![Screenshot 2025-01-28 065140](https://github.com/user-attachments/assets/ef68bd1a-d517-499c-9fb0-890502820780)
+
+
 ## Stopping the VM
 To stop the virtual machine, run:
 ```sh
