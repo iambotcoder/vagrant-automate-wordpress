@@ -4,8 +4,6 @@
 This project sets up a **WordPress** environment using **Vagrant** and **VirtualBox**. The configuration provisions an Ubuntu virtual machine and installs Apache, MySQL, PHP, and WordPress automatically.
 
 
-This repository contains a `Vagrantfile` to set up an Ubuntu-based virtual machine with Apache, MySQL, PHP, and WordPress.
-
 ## Prerequisites
 Before using this Vagrant configuration, ensure you have the following installed:
 
